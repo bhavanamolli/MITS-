@@ -1,2 +1,2 @@
 # MITS-
-MITS internship project
+MITS internship project-1
